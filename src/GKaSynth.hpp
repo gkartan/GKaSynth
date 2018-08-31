@@ -13,3 +13,5 @@ extern Model *modelgkaNoteDisplayer;
 extern Model *modelgkaNoteRecorder;
 extern Model *modelgkaSequencer;
 extern Model *modelgkaRawScope;
+extern Model *modelgkaDirac;
+extern Model *modelgkaDiracSpectrum;
